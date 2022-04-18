@@ -1,0 +1,26 @@
+{
+    "quiz": {
+        "numQuestions": 3,
+        "randomPresentation": true,
+        "question": [
+            {
+                "stem": "What are the 6 primitive data types ?",
+                "weight": 1,
+                "type": "fill-in",
+                "ans": "string, boolean, number, undeined, null, symbol"
+            },
+            {
+                "stem": "Javascript is the same as Java",
+                "weight": 1,
+                "type": "true-false",
+                "ans": "false"
+            },
+            {
+                "stem": "Using var is the only way to declare variables ?",
+                "weight": 1,
+                "type": "true-false",
+                "ans": "false"
+            }                
+        ]
+    }
+}
